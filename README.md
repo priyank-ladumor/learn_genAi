@@ -21,3 +21,9 @@ hf auth login
 
 <!-- for installing pytorch -->
 pip install torch --index-url https://download.pytorch.org/whl/cpu
+
+<!-- for installing streamlit -->
+pip install streamlit
+
+<!-- for running streamlit  -->
+streamlit run prompt_ui.py
