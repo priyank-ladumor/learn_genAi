@@ -15,3 +15,9 @@ pip install -r requirements.txt
 
  <!-- how to remove all the packages in a virtual env -->
 pip uninstall -r requirements.txt -y
+
+<!-- for passing token to hugging face run this command on cmd -->
+hf auth login
+
+<!-- for installing pytorch -->
+pip install torch --index-url https://download.pytorch.org/whl/cpu
