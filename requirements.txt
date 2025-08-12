@@ -33,3 +33,6 @@ streamlit
 # validation schema
 pydantic
 # pip install "pydantic[email]"
+
+#chain graph
+grandalf
