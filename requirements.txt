@@ -30,3 +30,6 @@ scikit-learn
 # streamlit
 streamlit
 
+# validation schema
+pydantic
+# pip install "pydantic[email]"
