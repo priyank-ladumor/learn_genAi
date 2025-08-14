@@ -36,3 +36,7 @@ pydantic
 
 #chain graph
 grandalf
+
+#rag - document loader
+langchain-community
+pypdf
