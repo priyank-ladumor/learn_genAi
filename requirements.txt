@@ -40,3 +40,6 @@ grandalf
 #rag - document loader
 langchain-community
 pypdf
+
+#rag - text spliter
+langchain-experimental # SemanticChunker
