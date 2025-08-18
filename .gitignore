@@ -1,3 +1,10 @@
 .env
 venv
 .venv
+
+chroma.sqlite3
+my_chroma_db
+
+langchain_faiss_idx
+index.faiss
+index.pkl

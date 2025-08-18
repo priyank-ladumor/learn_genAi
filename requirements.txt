@@ -41,5 +41,9 @@ grandalf
 langchain-community
 pypdf
 
-#rag - text spliter
+# rag - text spliter
 langchain-experimental # SemanticChunker
+
+# vector store
+chromadb
+faiss-cpu
